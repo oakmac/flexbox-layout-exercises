@@ -29,7 +29,7 @@ If you're having trouble creating the whole thing, pick a "chunk" of the paintin
 
 Some students have found printing the image and numbering each rectangle helpful.
 
-[this painting]:mondrian.jpg
+[this painting]:https://raw.githubusercontent.com/oakmac/flexbox-layout-exercises/master/mondrian.jpg
 
 ## License
 
